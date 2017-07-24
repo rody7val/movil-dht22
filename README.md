@@ -1,0 +1,1 @@
+Registrador móvil de temperatura y humedad relativa con sensor DHT22 en una placa ESP8266
